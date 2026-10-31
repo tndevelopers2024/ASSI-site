@@ -1,0 +1,30 @@
+[2026-10-27 06:14:26] [INFO] Starting Expiry Reminders Runner. Mode: DRY_RUN
+[2026-10-27 06:14:26] [INFO] Completed Expiry Reminders. Mode: DRY_RUN | Total Users: 3115 | Sent: 0 | Queued/Dry: 13 | Failed: 0 | Already Sent: 0
+[2026-10-27 06:16:24] [SUCCESS] Test email [3_months] sent to madhavangl20@gmail.com
+[2026-10-27 06:16:30] [SUCCESS] Test email [1_month] sent to madhavangl20@gmail.com
+[2026-10-27 06:16:35] [SUCCESS] Test email [1_week] sent to madhavangl20@gmail.com
+[2026-10-27 06:16:42] [SUCCESS] Test email [1_day] sent to madhavangl20@gmail.com
+[2026-10-27 06:27:13] [INFO] Starting Expiry Reminders Runner. Mode: DRY_RUN
+[2026-10-27 06:27:14] [INFO] Completed Expiry Reminders. Mode: DRY_RUN | Total Users: 3115 | Sent: 0 | Queued/Dry: 13 | Failed: 0 | Already Sent: 0
+[2026-10-27 11:46:54] [SUCCESS] Test email [expired_today] sent to madhavangl20@gmail.com
+[2026-10-27 11:46:58] [SUCCESS] Test email [expired_1_week] sent to madhavangl20@gmail.com
+[2026-10-27 11:47:03] [SUCCESS] Test email [expired_1_month] sent to madhavangl20@gmail.com
+[2026-10-27 11:47:10] [SUCCESS] Test email [expired_3_months] sent to madhavangl20@gmail.com
+[2026-10-27 11:54:21] [INFO] Starting Expiry Reminders Runner. Mode: DRY_RUN
+[2026-10-27 11:54:34] [INFO] Completed Expiry Reminders. Mode: DRY_RUN | Total Users: 3209 | Sent: 0 | Queued/Dry: 33 | Failed: 0 | Already Sent: 0
+[2026-10-27 13:00:31] [SUCCESS] Test email [3_months] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:00:37] [SUCCESS] Test email [1_month] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:00:43] [SUCCESS] Test email [1_week] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:00:49] [SUCCESS] Test email [1_day] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:01:01] [SUCCESS] Test email [expired_today] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:01:09] [SUCCESS] Test email [expired_1_week] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:01:16] [SUCCESS] Test email [expired_1_month] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:01:27] [SUCCESS] Test email [expired_3_months] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:21:48] [SUCCESS] Test email [3_months] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:21:54] [SUCCESS] Test email [1_month] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:22:07] [SUCCESS] Test email [1_week] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:22:13] [SUCCESS] Test email [1_day] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:22:21] [SUCCESS] Test email [expired_today] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:22:33] [SUCCESS] Test email [expired_1_week] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:22:41] [SUCCESS] Test email [expired_1_month] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com
+[2026-10-27 13:22:45] [SUCCESS] Test email [expired_3_months] for Dr Sahil Mhaisane sent to madhavangl20@gmail.com

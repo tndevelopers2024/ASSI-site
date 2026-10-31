@@ -1,0 +1,6 @@
+# User upload directory
+/user-profile/*
+!/user-profile/.gitkeep
+
+# Composer vendor directory
+/vendor/
